@@ -1,6 +1,6 @@
 # ubec-znc
 
-Run a znc bouncer on Heroku.
+Run a znc bouncer on a cloud app.
 
 See the buildpack for details.
 
